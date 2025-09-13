@@ -41,4 +41,4 @@ We welcome thoughtful features and bug fixes from privacy-minded builders. See r
 
 ---
 
-**XXXXXX Labs Team**
+**Eclaire Labs Team**
